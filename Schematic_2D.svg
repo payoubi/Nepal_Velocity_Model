@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -21,6 +22,18 @@
    inkscape:export-ydpi="1022.39">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1529">
+      <stop
+         style="stop-color:#ff7e7e;stop-opacity:1;"
+         offset="0"
+         id="stop1525" />
+      <stop
+         style="stop-color:#ff7e7e;stop-opacity:0;"
+         offset="1"
+         id="stop1527" />
+    </linearGradient>
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
@@ -80,6 +93,15 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1529"
+       id="linearGradient1531"
+       x1="119.25419"
+       y1="-107.85664"
+       x2="185.94457"
+       y2="-107.85664"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -89,8 +111,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="348.56285"
-     inkscape:cy="933.68796"
+     inkscape:cx="381.26251"
+     inkscape:cy="531.46874"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -98,7 +120,8 @@
      inkscape:window-height="1052"
      inkscape:window-x="67"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -243,5 +266,18 @@
          x="130.10489"
          y="13.655605"
          style="font-size:3.52777767px;stroke-width:0.26458332">Bedrock level</tspan></text>
+    <rect
+       style="opacity:1;fill:url(#linearGradient1531);fill-opacity:1;stroke:#000000;stroke-width:0.39028051;stroke-linejoin:round;stroke-miterlimit:2.9000001;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect892"
+       width="66.300095"
+       height="9.0309763"
+       x="119.44933"
+       y="-112.37212"
+       transform="rotate(90)" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 88.492937,136.66501 H 129.83953"
+       id="path1533"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
